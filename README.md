@@ -59,7 +59,7 @@ CREATE TABLE IF NOT EXISTS tasks (
 
 ## Como Executar o Projeto
 
-1. Clonar o repositório:
+1. Clonar repositório:
 
 ```bash
 git clone <url-do-repositorio>
