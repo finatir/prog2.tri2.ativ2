@@ -119,6 +119,3 @@ curl -X PUT http://localhost:3000/tasks/1 \
 curl -X DELETE http://localhost:3000/tasks/1
 ```
 
-## Conclusão
-
-Com a implementação das funções utilizando SQLite, as tarefas passaram a ser armazenadas em banco de dados, substituindo o uso de arquivos JSON e atendendo aos requisitos da atividade.
